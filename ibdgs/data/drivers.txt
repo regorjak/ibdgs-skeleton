@@ -1,0 +1,3 @@
+23!!@@AAAB;John Smith;5;Light;123|Main St|Melbourne|VIC|Australia;01-01-2000
+34##$$BBBC;Jane Doe;12;Heavy;456|Queen St|Sydney|NSW|Australia;15-03-1985
+56&&**CCCD;Sam Lee;8;PublicTransport;789|King St|Brisbane|QLD|Australia;20-07-1992
