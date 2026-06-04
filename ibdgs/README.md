@@ -45,3 +45,6 @@ ibdgs/
 - Member 2 — Driver implementation and tests
 - Member 3 — Bus implementation and tests
 - Member 4 — Report compilation, video, submission
+
+
+Terminal push test.
